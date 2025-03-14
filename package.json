@@ -2,6 +2,7 @@
   "name": "grammar-correction-app",
   "version": "1.0.0",
   "description": "A grammar correction application using OpenAI API",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
